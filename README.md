@@ -18,8 +18,17 @@ My data science project requires:
 9. jupyter (>= 1.0)
 
 Download and Install  Python (>= 3.10).
+
+It's recommended to use a virtual environment to keep dependencies isolated :
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# On Windows:
+venv\Scripts\activate
    
-Install the required data science libraries:
+Install the required data science libraries using pip:
 
    python -m pip install jupyter pandas numpy matplotlib seaborn scikit-learn scipy joblib
 
