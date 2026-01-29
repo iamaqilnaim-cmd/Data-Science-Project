@@ -24,11 +24,12 @@ It's recommended to use a virtual environment to keep dependencies isolated :
 # Create a virtual environment
 python -m venv venv
 
-# Activate the virtual environment
-# On Windows:
+#Activate the virtual environment
+#On Windows:
+
 venv\Scripts\activate
    
-Install the required data science libraries using pip:
+# Install the required data science libraries using pip:
 
-   python -m pip install jupyter pandas numpy matplotlib seaborn scikit-learn scipy joblib
+  python -m pip install jupyter pandas numpy matplotlib seaborn scikit-learn scipy joblib
 
