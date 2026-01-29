@@ -22,5 +22,5 @@ Download and Install  Python (>= 3.10).
 Install the required data science libraries:
 
 .. code-block:: sh
-   python -m pip install jupyter pandas numpy matplotlib seaborn scikit-learn scipy joblib 
+   python -m pip install jupyter pandas numpy matplotlib seaborn scikit-learn scipy joblib
 
