@@ -2,10 +2,10 @@
 
 This is my first resporitory on Github...My aim is to build up my profileon Data Science
 
-Installation
-^^^^^^^^^^^^
-Dependencies
-""""""""""""
+Installation :
+
+Dependencies :
+
 My data science project requires:
 1. Python (>= 3.10)
 2. joblib (>= 1.2)
@@ -21,6 +21,5 @@ Download and Install  Python (>= 3.10).
    
 Install the required data science libraries:
 
-.. code-block:: sh
    python -m pip install jupyter pandas numpy matplotlib seaborn scikit-learn scipy joblib
 
