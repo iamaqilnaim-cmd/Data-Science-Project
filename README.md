@@ -25,7 +25,6 @@ It's recommended to use a virtual environment to keep dependencies isolated :
 python -m venv venv
 
 #Activate the virtual environment
-#On Windows:
 
 venv\Scripts\activate
    
